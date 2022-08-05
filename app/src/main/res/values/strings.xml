@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Bees School Challenge</string>
+    <string name="icon_filter">Botao filtro</string>
+
+    <string name="home_screen_welcome">Bem vindo,\nEncontre as melhores cervejarias</string>
+
+    <string name="search_widget_icon_mic">Botão microfone</string>
+    <string name="search_widget_icon_search">Botão de busca</string>
+    <string name="search_widget_placeholder">Buscar local</string>
+    <string name="home_screen_users_options_title">Segundo a opinião dos usuários:</string>
+    <string name="home_screen_results">Exibindo %d de %d resultados.</string>
+    <string name="button_rate_brewery">AVALIAR CERVEJARIA</string>
+    <string name="top_bar_back_arrow">Retornar a tela anterior</string>
+    <string name="brewery_detail">Detalhes da Cervejaria</string>
+    <string name="detail_see_on_map">Ver no mapa</string>
+    <string name="detail_address">Endereço</string>
+    <string name="detail_type">Tipo</string>
+    <string name="detail_website">Site</string>
+    <string name="icon_map">Botao de visualizaçao no mapa</string>
+    <string name="detail_brew_success">Duas cervejas brindando</string>
+    <string name="detail_rating_block">Você já avaliou essa cervejaria</string>
+    <string name="search_result_title">A lista de cervejaria não  foi encontrada</string>
+    <string name="search_result_description">Por favor, verifique sua pesquisa e tente novamente para obter resultados.</string>
+    <string name="close">Fechar</string>
+    <string name="rating_form_title">Avalie a cervejaria\n%s</string>
+    <string name="placeholder_email">nome@email.com</string>
+    <string name="error_invalid_email">Favor inserir um e-mail válido</string>
+</resources>
